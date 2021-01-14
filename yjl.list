@@ -1,0 +1,15 @@
+http=a1.ap.fastqvpn.com:29980, username= 289830219345297408, password= 929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=℡不忘初心丶
+
+http=a2.ap.fastqvpn.com:29980, username= 289830219345297408, password= 929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连-1
+
+http=a3.ap.fastqvpn.com:29980, username= 289830219345297408, password= 929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连-2
+
+http=a4.ap.fastqvpn.com:29980, username= 289830219345297408, password= 929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连-3
+
+http=a5.ap.fastqvpn.com:29980, username= 289830219345297408, password= 929d73d4-fb27-43de-8e78-e1982d0a94e2, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连-4
+
+shadowsocks=p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=台湾
+
+shadowsocks=p3.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=日本
+
+shadowsocks=p2.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=美国
